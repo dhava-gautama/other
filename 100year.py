@@ -1,3 +1,8 @@
+'''
+Buat program yang meminta user untuk memasukkan (input) nama dan usia mereka. Cetak pesan
+sapaan untuk mereka (plus nama user) dan tahun berapa mereka akan berusia 100 tahun.
+'''
+
 import datetime # Modul untuk mendapat tahun saat ini
 
 name = input('Siapa namamu?') #Meminta user untuk memasukkan namanya
